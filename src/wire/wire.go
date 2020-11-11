@@ -1,6 +1,6 @@
 //+build wireinject
 
-package main
+package withwire
 
 import "github.com/google/wire"
 
